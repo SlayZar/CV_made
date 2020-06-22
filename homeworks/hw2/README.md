@@ -26,7 +26,9 @@
 - Best validation loss = 0.124165
 
 Для воспроизведения решения можно скачать веса модели по ссылке:
+
 MarkCNN model:
 https://yadi.sk/d/qU67AZv-DtBGcQ
+
 OCR model:
 https://yadi.sk/d/Nj2OjAiXclx-zw
