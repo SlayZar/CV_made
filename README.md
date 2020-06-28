@@ -14,3 +14,9 @@ MADE Computer Vision course
 9.	Рекурентные сети. OCR. Распознование текста.
 10.	Metric Learning
 11.	Обработка видео 
+12. Few shot and semi-supervised learning
+13. GAN 1 
+14. GAN 2
+15. Деплой и Продакшен
+16. AI PRM
+17. Подведение итогов
